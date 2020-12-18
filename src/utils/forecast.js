@@ -21,7 +21,8 @@ forecast = (latitude, longitude, callback) => {
             callback(error, {
                 temperature: temp,
                 feel_temperature: feel_temp,
-                descriptions: body.current.weather_descriptions[0]
+                descriptions: body.current.weather_descriptions[0],
+                humidity: body.current.humidity
             })
         }
     })
