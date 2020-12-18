@@ -1,5 +1,5 @@
 # weather-website
-A very simple app that allow you to type in address and get your weather. It is deployed using heroku (https://kaiyi-weather-application.herokuapp.com/)
+A very simple app template built with node.js that allow you to type in address and get your weather. It is deployed using heroku (https://kaiyi-weather-application.herokuapp.com/)
 
 ### Step to use locally
 1. Clone the repository
